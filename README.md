@@ -2,7 +2,7 @@
 Analyzed a dataset of 27,000 records to explore the relationship between gemstone attributes (carat, cut, color, clarity) and pricing. Implemented data cleaning, EDA, feature engineering, and advanced statistical methods such as ANOVA, hypothesis testing, and GLM.
 
 # Dataset
-The dataset used in this project has been downloaded from Kaggle: \href{https://www.kaggle.com/datasets/colearninglounge/gemstone-price-prediction}{Gemstone Price Prediction Dataset}
+The dataset used in this project has been downloaded from Kaggle: [Gemstone Price Prediction Dataset](https://www.kaggle.com/datasets/colearninglounge/gemstone-price-prediction)
 
 ## Features: 
 * **Carat**: The gem's carat weight.
